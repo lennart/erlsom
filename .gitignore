@@ -1,0 +1,6 @@
+*.swp
+*.swo
+ebin
+include.mk
+config.log
+
